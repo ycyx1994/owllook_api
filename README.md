@@ -2,11 +2,6 @@
 
 [![GitHub release](https://img.shields.io/github/release/howie6879/owllook_api.svg)](https://github.com/howie6879/owllook_api/releases) [![Github All Releases](https://img.shields.io/github/downloads/howie6879/owllook_api/total.svg)](https://github.com/howie6879/owllook_api/releases) [![license](https://img.shields.io/github/license/howie6879/owllook_api.svg)](https://github.com/howie6879/owllook_api/blob/master/LICENSE)
 
-本项目提供优雅的小说接口，其他衍生项目如下：
-
-- 公众号：[**粮草小说**](http://oe7yjec8x.bkt.clouddn.com/howie/2018-03-13-%E7%B2%AE%E8%8D%89%E5%B0%8F%E8%AF%B4.jpg-blog.howie)，有兴趣的话可以关注下
-- 官网：[https://www.owllook.net](https://www.owllook.net)
-- 监控工具：[owllook_gui](https://github.com/howie6879/owllook_gui)
 
 ### Overview
 
@@ -17,7 +12,7 @@
 `owllook_api`基于[gin](https://github.com/gin-gonic/gin)，提供了一系列基本的小说接口，使用：
 
 ``` shell
-git clone https://github.com/howie6879/owllook_api
+git clone https://github.com/ycyx1994/owllook_api
 cd owllook_api
 
 go get -u github.com/kardianos/govendor
